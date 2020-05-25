@@ -4,6 +4,7 @@
 
 **Ссылки:**
 [Исходный код](https://github.com/d00dde/telegram-chat) приложения.
+[Демо-версия](https://still-wildwood-56365.herokuapp.com/) приложения.
 
 **Использованы технологии:**
 
